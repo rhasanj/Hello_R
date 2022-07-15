@@ -7,3 +7,4 @@ name = 'Naam a naami'
  print('name')
  print('now know that i dont know')
 
+print("oraya lao g")
