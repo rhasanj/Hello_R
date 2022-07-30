@@ -10,3 +10,4 @@ x[1:5]
 x[x > "a"]
 u <- x>"a"
 u
+##test data entered from git
